@@ -1,0 +1,15 @@
+{
+  "name": "recroom-node-render-server",
+  "version": "1.0.0",
+  "description": "Node.js port of the uploaded 2023 RecRoom server, ready for Render/GitHub.",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {}
+}
